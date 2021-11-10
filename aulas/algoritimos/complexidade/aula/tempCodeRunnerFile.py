@@ -1,0 +1,1 @@
+more_than_25_percent(test_1)
